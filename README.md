@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Data Science Specialization
 
@@ -20,3 +21,7 @@ Materials are under development and subject to change.
 
 These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (http://www.tldrlegal.com/l/CC-NC-SA). 
 
+=======
+# DSCourses
+Content from BCaffo Coursera
+>>>>>>> d13a56e99b6d3544b8fa617a3687e1f591bac399
